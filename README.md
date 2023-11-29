@@ -7,6 +7,6 @@ The general idea is to analyze the waveform, then the led blinks at the same tim
 
 chatgpt's idea is that the user can manipulate the music by changing the state of the sensors (e.g. blocking light or applying pressure).
 
-This is just my basic idea, maybe I will change the code later according to the idea. But the basic direction will not change
+This is just my basic idea, i am still not sure to use which idea so i don't have a sketch. maybe I will change the code later according to the idea. But the basic direction will not change
 
 
