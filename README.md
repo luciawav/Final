@@ -52,6 +52,9 @@ I made a simple one, and my desired rendering is this!
 
 I think this kind of human-computer interaction reminds me of the data visualization mentioned at one point, where I converted the photosensitivity to a visualization of the changes, with the circle size representing the value passed. I realize that light changes are hard for the human eye to see, but it makes more sense if I make it more intuitive to see the problem through simple geometric changes in size. Although it is only a change in light, I think this basic idea can be extended to more places. For example, for people who are not highly photosensitive, or for testing in some places. The significance for me is that I've been hoping to do some visualization, and I was hoping to add some music detection visualization per se, and this time I added light visualization (which is hard) but I hope it works.
 
+[![GgjiAa.th.jpg](https://imgpile.com/images/GgjiAa.th.jpg)](https://imgpile.com/i/GgjiAa)
+ [![GgjsjX.th.jpg](https://imgpile.com/images/GgjsjX.th.jpg)](https://imgpile.com/i/GgjsjX)
+
 
 
 
