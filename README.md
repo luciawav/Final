@@ -40,20 +40,20 @@ Interaction involves altering light exposure to the photoresistor (using hands, 
 
 This time I found a lot of difficulties in reading my libraries, I did it through wifi but I was reminded of the problem with my firewall settings that the ip is not uniform, but the serial libraries were never read.
 But the serial library was never found. I changed it several times and it keeps reminding me
-! [GgomYW.png](https://imgpile.com/images/GgomYW.png)
+! [](https://imgpile.com/images/GgomYW.png)
 Then the port issues came up, and these are things I need to learn or else it totally affects my assignments
 
 Here's my thought process.
-! [GgAidi.jpg](https://imgpile.com/images/GgAidi.jpg)
+! [](https://imgpile.com/images/GgAidi.jpg)
 It should run along the lines of
-! [GgAcgk.jpg](https://imgpile.com/images/GgAcgk.jpg)
+! [](https://imgpile.com/images/GgAcgk.jpg)
 I made a simple one, and my desired rendering is this!
 [GgkuNk.png](https://imgpile.com/images/GgkuNk.png)
 
 I think this kind of human-computer interaction reminds me of the data visualization mentioned at one point, where I converted the photosensitivity to a visualization of the changes, with the circle size representing the value passed. I realize that light changes are hard for the human eye to see, but it makes more sense if I make it more intuitive to see the problem through simple geometric changes in size. Although it is only a change in light, I think this basic idea can be extended to more places. For example, for people who are not highly photosensitive, or for testing in some places. The significance for me is that I've been hoping to do some visualization, and I was hoping to add some music detection visualization per se, and this time I added light visualization (which is hard) but I hope it works.
 
-[![GgjiAa.th.jpg](https://imgpile.com/images/GgjiAa.th.jpg)](https://imgpile.com/i/GgjiAa)
- [![GgjsjX.th.jpg](https://imgpile.com/images/GgjsjX.th.jpg)](https://imgpile.com/i/GgjsjX)
+[![](https://imgpile.com/images/GgjiAa.th.jpg)](https://imgpile.com/i/GgjiAa)
+[![](https://imgpile.com/images/GgjsjX.th.jpg)](https://imgpile.com/i/GgjsjX)
 
 
 
