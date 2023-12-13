@@ -43,17 +43,16 @@ But the serial library was never found. I changed it several times and it keeps 
 ! [](https://imgpile.com/images/GgomYW.png)
 Then the port issues came up, and these are things I need to learn or else it totally affects my assignments
 
-Here's my thought process.
-! [](https://imgpile.com/images/GgAidi.jpg)
-It should run along the lines of
-! [](https://imgpile.com/images/GgAcgk.jpg)
-I made a simple one, and my desired rendering is this!
-[GgkuNk.png](https://imgpile.com/images/GgkuNk.png)
+
+
+![1.png](https://imgpile.com/images/GSP0KE.png)
+![2.png](https://imgpile.com/images/GSPkIh.png)
+![3.png](https://imgpile.com/images/GSPLWX.png)
 
 I think this kind of human-computer interaction reminds me of the data visualization mentioned at one point, where I converted the photosensitivity to a visualization of the changes, with the circle size representing the value passed. I realize that light changes are hard for the human eye to see, but it makes more sense if I make it more intuitive to see the problem through simple geometric changes in size. Although it is only a change in light, I think this basic idea can be extended to more places. For example, for people who are not highly photosensitive, or for testing in some places. The significance for me is that I've been hoping to do some visualization, and I was hoping to add some music detection visualization per se, and this time I added light visualization (which is hard) but I hope it works.
 
-[![](https://imgpile.com/images/GgjiAa.th.jpg)](https://imgpile.com/i/GgjiAa)
-[![](https://imgpile.com/images/GgjsjX.th.jpg)](https://imgpile.com/i/GgjsjX)
+![4.png](https://imgpile.com/images/GSPBeR.png)
+![5.png](https://imgpile.com/images/GSPW2r.png)
 
 
 
